@@ -1,5 +1,5 @@
 #Autor: Tomasz Hresiukiewicz
-#Data: 9.21.2018
+#Data: 11.9.2018
 #
 #
 #Brief: Program checks city communication(busses) hours
